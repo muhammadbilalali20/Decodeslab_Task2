@@ -1,4 +1,4 @@
-Project 2 – Backend API (Users API)
+#Project 2 – Backend API (Users API)
 This is a simple backend API built using Node.js and Express. It manages a "Users" resource (view the list, view a single user, add a new user).
 How to Run
 
