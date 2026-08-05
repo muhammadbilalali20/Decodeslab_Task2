@@ -25,6 +25,7 @@ json{
   "email": "ahmed@example.com"
 }
 If name or email is missing, the API will return a 400 error (validation).
+linkedin(www.linkedin.com/in/muhammadbilalalinasir/)
 Testing (using Postman or curl)
 curl http://localhost:3000/users
 
